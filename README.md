@@ -1,2 +1,3 @@
 # awesome-app
-CLI tool for creating an application with Node.js
+
+The project is under development.

@@ -1,0 +1,23 @@
+{
+    "name": "awesome-app",
+    "version": "0.0.1",
+    "description": "CLI tool for creating an application",
+    "author": "Gleb Naumov <glenaudev@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/glenau/awesome-app#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/glenau/awesome-app.git"
+    },
+    "bugs": {
+        "url": "https://github.com/glenau/awesome-app/issues"
+    },
+    "main": "bin/cli.js",
+    "bin": {
+        "awesome-app": "bin/cli.js"
+    },
+    "engines": {
+        "node": ">=20"
+    },
+    "type": "module"
+}
